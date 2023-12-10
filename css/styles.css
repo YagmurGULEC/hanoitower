@@ -84,7 +84,9 @@
 *::after {
   box-sizing: border-box;
 }
-
+#canvas{
+  width: 800px;
+}
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
